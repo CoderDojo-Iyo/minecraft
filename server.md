@@ -38,5 +38,7 @@ WiFiルータのポート変換を追加。
 
 Microsoft Defender ファイアウォールを `オフ` にしてみる。
 
+※外部からの接続をVPN経由で試した際に、VPNネットワークが遅かった可能性あり。
+
 ## 参考記事
 - [Minecraft ポート開放 パソコン版マルチプレイサーバー設置方法](https://www.akakagemaru.info/port/soft_minecraft.html)
