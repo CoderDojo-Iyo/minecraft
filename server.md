@@ -50,3 +50,9 @@ Microsoft Defender ファイアウォールを `オフ` にしてみる。
 
 ## 参考記事
 - [Minecraft ポート開放 パソコン版マルチプレイサーバー設置方法](https://www.akakagemaru.info/port/soft_minecraft.html)
+
+---
+# Worldの設定
+## Server properties
+[server.properties - Minecraft Wiki](https://minecraft.fandom.com/ja/wiki/Server.properties)
+
