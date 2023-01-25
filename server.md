@@ -33,5 +33,10 @@ WiFiルータのポート変換を追加。
 ### 設定例
 ![Screenshot 2023-01-25 at 2 21 29 PM](https://user-images.githubusercontent.com/948237/214486665-b1879be3-8595-4f78-b6f4-5377a61bd80d.png)
 
+### タイムアウトしました
+`接続を維持できません。タイムアウトしました。` となる場合。
+
+Microsoft Defender ファイアウォールを `オフ` にしてみる。
+
 ## 参考記事
 - [Minecraft ポート開放 パソコン版マルチプレイサーバー設置方法](https://www.akakagemaru.info/port/soft_minecraft.html)
