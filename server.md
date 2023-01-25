@@ -5,6 +5,10 @@
 ファイル名にバージョン名を入れておくなど。
 
 ## batファイルの編集
+minecraft_server.bat
+```
+java -Xmx1024M -Xms1024M -jar minecraft_server.1.19.3.jar
+```
 
 ## eulaを編集
 ```
