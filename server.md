@@ -29,7 +29,8 @@ WiFiルータのポート変換を追加。
 ### WiFiルータ
 - TCP/UDPポート: 25565
 - LAN側IPアドレス: (ipconfigにて確認)
-設定例
+
+### 設定例
 ![Screenshot 2023-01-25 at 2 21 29 PM](https://user-images.githubusercontent.com/948237/214486665-b1879be3-8595-4f78-b6f4-5377a61bd80d.png)
 
 ## 参考記事
