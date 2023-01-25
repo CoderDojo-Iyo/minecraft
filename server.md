@@ -1,6 +1,8 @@
 ## Javaサーバー
+[Minecraft Server： Java　Edition](https://www.minecraft.net/ja-jp/download/server）
+
 ダウンロードして新規フォルダに保存。
-ファイル名にバージョン名を入れておく。
+ファイル名にバージョン名を入れておくなど。
 
 ## batファイルの編集
 
