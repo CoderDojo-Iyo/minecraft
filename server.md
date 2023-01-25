@@ -1,5 +1,5 @@
 ## Javaサーバー
-[Minecraft Server： Java　Edition](https://www.minecraft.net/ja-jp/download/server）
+[Minecraft Server： Java Edition](https://www.minecraft.net/ja-jp/download/server）
 
 ダウンロードして新規フォルダに保存。
 ファイル名にバージョン名を入れておくなど。
@@ -24,12 +24,14 @@ IPv4アドレスを確認する。
 
 ## ポートの解放
 `開放くん` や `UPnPCJ` を使う。
+
 WiFiルータのポート変換を追加。
 
 ### UPnPCJの場合
 - WAN_PORT: 25565
 - PROT: TCP
 - LAN IP(固定): (ipconfigにて確認)
+
 `Port開放` をクリックして開放されることを確認。
 
 ### WiFiルータ
