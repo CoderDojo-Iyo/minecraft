@@ -13,6 +13,8 @@ minecraft_server.bat
 java -Xmx1024M -Xms1024M -jar minecraft_server.1.19.3.jar
 ```
 
+初回の実行時に `eula.txt` を含むファイルやフォルダが自動的に生成される。
+
 ## eulaを編集
 ```
 eula=true
