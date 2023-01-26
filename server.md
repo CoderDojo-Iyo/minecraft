@@ -20,6 +20,8 @@ java -Xmx1024M -Xms1024M -jar minecraft_server.1.19.3.jar
 eula=true
 ```
 
+`false` を `true` に変えて保存。
+
 ## ローカルIPアドレスの確認
 コマンドプロンプトを起動して
 ```
