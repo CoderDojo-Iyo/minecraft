@@ -4,6 +4,9 @@
 ダウンロードして新規フォルダに保存。
 ファイル名にバージョン名を入れておくなど。
 
+[サーバーのセットアップ - Minecraft Wiki](https://minecraft.fandom.com/ja/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AE%E3%82%BB%E3%83%83%E3%83%88%E3%82%A2%E3%83%83%E3%83%97)
+
+
 ## batファイルの編集
 minecraft_server.bat
 ```
