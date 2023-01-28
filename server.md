@@ -58,6 +58,8 @@ Microsoft Defender ファイアウォールを `オフ` にしてみる。
 ## 参考記事
 - [Minecraft ポート開放 パソコン版マルチプレイサーバー設置方法](https://www.akakagemaru.info/port/soft_minecraft.html)
 - [外出先から自宅のPCを操作したい！（リモートデスクトップの設定）](https://www.blue-star.jp/i-want-to-control-my-home-pc-from-outside-with-remote-desktop/)
+- [no-ip](https://www.noip.com/)
+- 
 
 
 ---
