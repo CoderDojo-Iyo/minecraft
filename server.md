@@ -55,6 +55,28 @@ Microsoft Defender ファイアウォールを `オフ` にしてみる。
 
 ※外部からの接続をVPN経由で試した際に、VPNネットワークが遅かった可能性あり。
 
+### DDNSの利用
+自宅などからインターネットに接続する場合、グローバルIPアドレスが割り当てられる。
+自宅の外から自宅で起動中のマイクラサーバーに接続する場合はこのグローバルIPアドレスをサーバーアドレスとして指定する必要がある。
+ただし、自宅のWiFiルータを再起動（インターネットに接続し直し）すると、グローバルIPアドレスが変わってしまう場合がある。
+（グローバルIPアドレスを固定したい場合はVPNなどのサービスが別途必要。）
+ここで、グローバルIPアドレスを固定しなくても、DDNSというサービスを利用することで自分専用のドメイン名で接続ができるようになる。
+
+例えば [no-ip](https://www.noip.com/) を利用する場合。
+- メールアドレス
+- パスワードを新規作成
+- Hostname（希望の名前を決める。後からでもOK）
+- Free Sign Up（登録を実行）
+ 
+![Screenshot 2023-01-30 at 4 17 29 PM](https://user-images.githubusercontent.com/948237/215414710-ebc5da4e-daee-49c3-a6ed-4341825074db.png)
+
+アカウントを登録したら `Sign In` する。
+
+- `Dynamic DNS` メニューを開く
+- `Dynamic Update Client` をダウンロードしてインストール
+- `Dynamic Update Client` からnoipのアカウントで　`Sign In`。
+- 
+
 ## 参考記事
 - [Minecraft ポート開放 パソコン版マルチプレイサーバー設置方法](https://www.akakagemaru.info/port/soft_minecraft.html)
 - [外出先から自宅のPCを操作したい！（リモートデスクトップの設定）](https://www.blue-star.jp/i-want-to-control-my-home-pc-from-outside-with-remote-desktop/)
