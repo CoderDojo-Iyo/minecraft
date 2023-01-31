@@ -37,13 +37,13 @@ WiFiルータのポート変換を追加。
 ### UPnPCJの場合
 - WAN_PORT: 25565
 - PROT: TCP
-- LAN IP(固定): (ipconfigにて確認)
+- LAN IP(固定): (ipconfigで確認)
 
 `Port開放` をクリックして開放されることを確認。
 
 ### WiFiルータ
 - TCP/UDPポート: 25565
-- LAN側IPアドレス: (ipconfigにて確認)
+- LAN側IPアドレス: (ipconfigで確認)
 
 ### 設定例
 ![Screenshot 2023-01-25 at 2 21 29 PM](https://user-images.githubusercontent.com/948237/214731631-525b7808-fe82-4fd3-afc9-e38ae3ecd6e5.png)
