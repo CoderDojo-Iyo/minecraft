@@ -82,6 +82,14 @@ Microsoft Defender ファイアウォールを `オフ` にしてみる。
 
 ![noip-duc2023-01-30](https://user-images.githubusercontent.com/948237/215419879-353e54a9-1243-47fd-a859-90f44f27fbd2.png)
 
+### DUC Clientの設定
+File -> Preferences
+- Windowsにログオンしたら `DUC Client` を自動的に起動する。
+- Windowsを起動したら　`DUC Service` を自動的に起動する。
+
+![duc-preferences-2023-02-01](https://user-images.githubusercontent.com/948237/215964550-7b6e9dea-edfa-4db4-a397-42697a080c9d.png)
+
+
 ## 電源の設定
 電源に接続中はスリープにしない。
 
