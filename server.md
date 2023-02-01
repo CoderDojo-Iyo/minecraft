@@ -82,6 +82,11 @@ Microsoft Defender ファイアウォールを `オフ` にしてみる。
 
 ![noip-duc2023-01-30](https://user-images.githubusercontent.com/948237/215419879-353e54a9-1243-47fd-a859-90f44f27fbd2.png)
 
+## 電源の設定
+電源に接続中はスリープにしない。
+
+![windows-power-settings-2023-02-01](https://user-images.githubusercontent.com/948237/215962974-6e196bcd-40e4-4a2c-a7ad-4d063a0087e5.png)
+
 ## 参考記事
 - [Minecraft ポート開放 パソコン版マルチプレイサーバー設置方法](https://www.akakagemaru.info/port/soft_minecraft.html)
 - [外出先から自宅のPCを操作したい！（リモートデスクトップの設定）](https://www.blue-star.jp/i-want-to-control-my-home-pc-from-outside-with-remote-desktop/)
