@@ -23,11 +23,19 @@ eula=true
 `false` を `true` に変えて保存。
 
 ## ローカルIPアドレスの確認
-Windowsの場合は、コマンドプロンプトを起動して
+### Windowsの場合
+コマンドプロンプトを起動して
 ```
 ipconfig
 ```
 IPv4アドレスを確認する。
+
+### MacOSの場合
+ターミナルから
+```
+ifconfig | grep "inet "
+```
+とするなど。
 
 ## ポートの解放
 `開放くん` や `UPnPCJ` を使う。
