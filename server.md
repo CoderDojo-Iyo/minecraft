@@ -71,9 +71,9 @@ Microsoft Defender ファイアウォールを `オフ` にしてみる。
 ただし、自宅のWiFiルータを再起動（インターネットに接続し直し）した場合など、グローバルIPアドレスが変わってしまうことがある。
 （グローバルIPアドレスを固定したい場合はVPNなどのサービスが別途必要。）  
 
-ここで、グローバルIPアドレスを固定しなくても、DDNSというサービスを利用することで自分専用のドメイン名で接続ができるようになる。
+ここで、グローバルIPアドレスを固定しなくても、`no-ip`などのDDNSサービスを利用することで自分専用のドメイン名で接続ができるようになる。
 
-例えば [no-ip](https://www.noip.com/) を利用する場合。
+### [no-ip](https://www.noip.com/) を利用する場合
 - メールアドレス
 - パスワードを新規作成
 - Hostname（希望の名前を決める。後からでもOK）
@@ -108,7 +108,6 @@ File -> Preferences
 - [Minecraft ポート開放 パソコン版マルチプレイサーバー設置方法](https://www.akakagemaru.info/port/soft_minecraft.html)
 - [外出先から自宅のPCを操作したい！（リモートデスクトップの設定）](https://www.blue-star.jp/i-want-to-control-my-home-pc-from-outside-with-remote-desktop/)
 - [no-ip](https://www.noip.com/)
-
 
 ---
 # Worldの設定
