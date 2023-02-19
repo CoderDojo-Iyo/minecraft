@@ -114,4 +114,13 @@ File -> Preferences
 # Worldの設定
 ## Server properties
 [server.properties - Minecraft Wiki](https://minecraft.fandom.com/ja/wiki/Server.properties)
-
+## opコマンドについて
+サーバーの設定がデフォルトで
+```
+op-permission-level=4
+```
+になっており、サーバーのコンソールから
+```
+/op (user account)
+```
+として管理者権限を付与する。（ops.jsonに保存される）
