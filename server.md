@@ -113,6 +113,12 @@ File -> Preferences
 # Worldの設定
 ## Server properties
 [server.properties - Minecraft Wiki](https://minecraft.fandom.com/ja/wiki/Server.properties)
+
+```
+gamemode=creative
+spawn-monsters=false
+```
+
 ## opコマンドについて
 サーバーの設定がデフォルトで
 ```
