@@ -129,3 +129,6 @@ op-permission-level=4
 /op (user account)
 ```
 として管理者権限を付与する。（ops.jsonに保存される）
+
+## white listによる運用
+[white list - Minecraft Wiki](https://minecraft.fandom.com/ja/wiki/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/whitelist)
