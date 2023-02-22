@@ -97,6 +97,9 @@ File -> Preferences
 
 ![duc-preferences-2023-02-01](https://user-images.githubusercontent.com/948237/215964550-7b6e9dea-edfa-4db4-a397-42697a080c9d.png)
 
+### ddnsのホスト名有効期限
+no-ipのサービス(free plan)で取得したホスト名は有効期限が30日なので、同じホスト名を継続して(無料で
+)利用する場合は更新手続きが必要。有料プランにUpgradeする方法もあり。
 
 ## 電源の設定
 電源に接続中はスリープにしない。
