@@ -5,6 +5,7 @@
 [server.properties - Minecraft Wiki](https://minecraft.fandom.com/ja/wiki/Server.properties)
 
 ```
+allow-flight=true
 enable-command-block=true
 force-gamemode=true
 gamemode=creative
