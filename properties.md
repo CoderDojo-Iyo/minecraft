@@ -5,6 +5,8 @@
 [server.properties - Minecraft Wiki](https://minecraft.fandom.com/ja/wiki/Server.properties)
 
 ```
+enable-command-block=true
+force-gamemode=true
 gamemode=creative
 spawn-monsters=false
 ```
