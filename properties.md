@@ -17,11 +17,24 @@ spawn-monsters=false
 ```
 op-permission-level=4
 ```
-になっており、サーバーのコンソールから
+になっていて、サーバーのコンソールから
 ```
-/op (user account)
+op (username)
 ```
-として管理者権限を付与する。（ops.jsonに保存される）
+として管理者権限を付与すると `ops.json` に保存される。
+ひとまず、
+```
+op-permission-level=2
+```
+に変更して運用してみる。
+ちなみにこの設定で、
+```
+op (username)
+```
+を実行すると、ユーザーは権限レベル２で追加される。
+
+## 権限によるコマンドの違いについて
+[コマンド - Minecraft Wiki](https://minecraft.fandom.com/ja/wiki/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89)
 
 ## white listによる運用
 [white list - Minecraft Wiki](https://minecraft.fandom.com/ja/wiki/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/whitelist)
