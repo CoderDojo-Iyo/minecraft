@@ -27,11 +27,13 @@ op (username)
 op-permission-level=2
 ```
 に変更して運用してみる。
+
 ちなみにこの設定で、
 ```
 op (username)
 ```
 を実行すると、ユーザーは権限レベル２で追加される。
+メンターには権限レベル４を設定。（サーバー側で　 `ops.json` の編集が必要）
 
 ## 権限によるコマンドの違いについて
 [コマンド - Minecraft Wiki](https://minecraft.fandom.com/ja/wiki/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89)
@@ -49,3 +51,8 @@ https://api.mojang.com/users/profiles/minecraft/(プレイヤー名)
 whitelist add [ユーザ名]
 whitelist reload
 ```
+例えば新しいニンジャが当マイクラサーバーを利用したい、かつコマンドを使いたい場合は
+管理者(権限レベル4)が
+- ニンジャを `whitelist` へ追加
+- ニンジャを `op` へ追加
+の操作が必要。
