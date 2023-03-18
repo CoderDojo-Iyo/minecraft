@@ -50,9 +50,11 @@ https://api.mojang.com/users/profiles/minecraft/(プレイヤー名)
 例えば新しいニンジャが
 - 当マイクラサーバーに入りたい
 - コマンドを使いたい
+
 場合は、管理者(権限レベル4)が
 - ニンジャを `whitelist` へ追加
 - ニンジャを `op` へ追加
+
 の操作が必要。
 ```
 whitelist add [ユーザ名]
