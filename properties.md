@@ -19,7 +19,7 @@ op-permission-level=4
 ```
 になっていて、サーバーのコンソールから
 ```
-op (username)
+op [ユーザ名]
 ```
 として管理者権限を付与すると `ops.json` に保存される。
 ひとまず、
@@ -30,7 +30,7 @@ op-permission-level=2
 
 ちなみにこの設定で、
 ```
-op (username)
+op [ユーザ名]
 ```
 を実行すると、ユーザーは権限レベル２で追加される。
 メンターには権限レベル４を設定。（サーバー側で　 `ops.json` の編集が必要）
@@ -47,12 +47,13 @@ https://api.mojang.com/users/profiles/minecraft/(プレイヤー名)
 ```
 
 ## white list(whitelist.json) へのユーザ追加
-```
-whitelist add [ユーザ名]
-whitelist reload
-```
 例えば新しいニンジャが当マイクラサーバーを利用したい、かつコマンドを使いたい場合は
 管理者(権限レベル4)が
 - ニンジャを `whitelist` へ追加
 - ニンジャを `op` へ追加
 の操作が必要。
+```
+whitelist add [ユーザ名]
+whitelist reload
+op [ユーザ名]
+```
