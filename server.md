@@ -10,7 +10,7 @@
 ## batファイルの編集
 minecraft_server.bat
 ```
-java -Xmx1024M -Xms1024M -jar minecraft_server.1.19.3.jar
+java -Xmx2048M -Xms2048M -jar minecraft_server.1.19.4.jar
 ```
 ### 2023.03.30
 サーバーを起動してクライアントから接続すると、
