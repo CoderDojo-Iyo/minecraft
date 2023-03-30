@@ -111,6 +111,7 @@ no-ipのサービス(free plan)で取得したホスト名は有効期限が30�
 )利用する場合は更新手続きが必要。有料プランにUpgradeする方法もあり。
 
 ### no-ip有料プラン
+[no-ip Dynamic DNS](https://www.noip.com/remote-access)
 - 1 hostname - $1.99/mo
 
 ## 電源の設定
