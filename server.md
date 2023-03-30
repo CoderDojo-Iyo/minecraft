@@ -12,6 +12,15 @@ minecraft_server.bat
 ```
 java -Xmx1024M -Xms1024M -jar minecraft_server.1.19.3.jar
 ```
+### 2023.03.30
+サーバーを起動してクライアントから接続すると、
+```
+[WARN]: Can’t Keep Up! Is the Server Overloaded?
+```
+のようなログが出力されたので下記のように修正。
+```
+java -Xmx3G -Xms1G -jar minecraft_server.1.19.4.jar
+```
 
 初回の実行時に `eula.txt` を含むファイルやフォルダが自動的に生成される。
 
