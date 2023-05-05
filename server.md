@@ -124,5 +124,5 @@ no-ipのサービス(free plan)で取得したホスト名は有効期限が30�
 - [Minecraft ポート開放 パソコン版マルチプレイサーバー設置方法](https://www.akakagemaru.info/port/soft_minecraft.html)
 - [外出先から自宅のPCを操作したい！（リモートデスクトップの設定）](https://www.blue-star.jp/i-want-to-control-my-home-pc-from-outside-with-remote-desktop/)
 - [no-ip](https://www.noip.com/)
-- **New[自宅PCでのマインクラフトサーバー作成方法【Java版】](https://hikicomoron.net/minecraft_java_server_windows)**
+- **(New)[自宅PCでのマインクラフトサーバー作成方法【Java版】](https://hikicomoron.net/minecraft_java_server_windows)**
 
