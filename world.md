@@ -16,6 +16,7 @@ MacでFnが動作しない場合はキーボードの設定を確認
 [シードマップ](https://www.chunkbase.com/apps/seed-map#7720807163619111538)で確認してみる。
 
 ![Screenshot 2023-05-05 at 11 44 34 AM](https://user-images.githubusercontent.com/948237/236367718-1aea9948-d9f1-4082-9a73-9b6b0a097e6c.png)
+
 中心のアイコンが `Spawn Point` 
 
 なので東の方向に海を渡っていくと陸地が広がっている様子。
