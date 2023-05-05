@@ -9,7 +9,10 @@ allow-flight=true
 enable-command-block=true
 force-gamemode=true
 gamemode=creative
+op-permission-level=2
+pvp=false
 spawn-monsters=false
+white-list=true
 ```
 
 ## opコマンドについて
