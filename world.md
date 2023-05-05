@@ -7,6 +7,9 @@ MacでFnが動作しない場合はキーボードの設定を確認
 ```
 （Win)
 %appdata%\.minecraft\screenshots
+```
+エクスプローラで `%appdata%` を開けば見つかると思います。
+```
 (Mac)
 /Users/(ユーザー名)/Library/Application Support/minecraft/mygamedir/screenshots
 ```
