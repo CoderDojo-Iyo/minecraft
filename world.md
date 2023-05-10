@@ -26,3 +26,12 @@ MacでFnが動作しない場合はキーボードの設定を確認
 中心のアイコンが `Spawn Point` 
 
 なので東の方向に海を渡っていくと陸地が広がっている様子。
+
+## ゲームモードの切り替え
+```
+/gamemode creative [user]
+/gamemode adventure [user]
+/defaultgamemode
+```
+`[user]` を省略すると自分のみ
+`[user]` を `@a` とすると全員
