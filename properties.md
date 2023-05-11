@@ -7,7 +7,7 @@
 ```
 allow-flight=true
 enable-command-block=true
-force-gamemode=true
+force-gamemode=false
 gamemode=creative
 op-permission-level=2
 pvp=false
