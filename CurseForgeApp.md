@@ -21,6 +21,7 @@ CurseForgeアプリを導入すると、Minecraft(Forge)とModを比較的簡単
 <img width="255" alt="Screenshot 2023-05-13 at 11 41 33 AM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/c95ac918-ffbb-49a8-bafa-af62282093be">
 
 - プロファイル名を後でわかりやすいように入力
+例えば　`forge` に `CC:Tweaked`(mod)を追加する場合は `forge-cctweaked-1.19.4` とするなど。
 - マイクラのバージョンを選択
 - forgeのバージョンを選択
 
