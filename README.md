@@ -33,6 +33,12 @@ forge-cctweaked-1.19.3
 - forge-1.19.3
 - cc-tweaked-1.19.3-forge-1.103.1.jar
 
+## CurseForgeアプリ
+上記のような `forge` に `Mod` を導入したい場合、　`CurseForge(app)` を使うと比較的簡単に起動構成を作ることができます。
+
+[CurseForgeApp](CurseForgeApp.md)
+
+
 ## プログラミング
 `ワールドの中でフロッピーに保存したプログラム` はマイクラを動かしているPCのファイルシステムから
 編集可能。
