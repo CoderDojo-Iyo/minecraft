@@ -45,3 +45,6 @@ forge-cctweaked-1.19.3
 
 ## turtleの燃料補給 - CC:Tweaked(Lua)
 [【マイクラ】Computer Craft Mod 使い方講座①「Refuel」を使ってタートルの燃料を補充しよう - PROCLASS blog](https://proclass.jp/blog/?p=8017)
+
+## Luaのプログラミング - Basic Lua | Feed The Beaset Wiki
+[Basic Lua | Feed The Beaset Wiki](https://feed-the-beast.fandom.com/wiki/Basic_Lua)
