@@ -39,6 +39,8 @@ CurseForgeアプリを導入すると、Minecraft(Forge)とModを比較的簡単
 `CC:Tweaked` をインストール。
 
 ## Modパックを起動
+<img width="208" alt="Screenshot 2023-05-13 at 11 49 20 AM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/c385a00d-0ddb-409d-9586-cb9a873f5588">
+
 作成したModパック（カスタムプロファイル）をプレイ。
 
 <img width="314" alt="Screenshot 2023-05-13 at 11 53 16 AM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/90de7daf-c4d8-488e-ab72-07dd303d4be2">
