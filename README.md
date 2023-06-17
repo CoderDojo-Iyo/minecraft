@@ -49,7 +49,7 @@ forge-cctweaked-1.19.3
 ## Luaのプログラミング - Basic Lua | Feed The Beaset Wiki
 [Basic Lua | Feed The Beaset Wiki](https://feed-the-beast.fandom.com/wiki/Basic_Lua)
 
-## 常に昼間にしたい
+## 常に昼間にしたい(Java)
 時間を停止させるコマンド
 ```
 /time set day
