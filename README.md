@@ -48,3 +48,14 @@ forge-cctweaked-1.19.3
 
 ## Luaのプログラミング - Basic Lua | Feed The Beaset Wiki
 [Basic Lua | Feed The Beaset Wiki](https://feed-the-beast.fandom.com/wiki/Basic_Lua)
+
+## 常に昼間にしたい
+時間を停止させるコマンド
+```
+/time set day
+/gamerule doDaylightCycle false
+```
+時間を動かすコマンド
+```
+/gamerule doDaylightCycle true
+```
