@@ -8,5 +8,5 @@
 ## Home potision
 [Turtle Home position. - ComputerCraft forum](https://www.computercraft.info/forums2/index.php?/topic/10426-turtle-home-position/)
 
-## Nevigator
+## Navigator
 [NAVIGATOR - Inertial Navigation for Turtles - ComputerCraft forum](https://www.computercraft.info/forums2/index.php?/topic/29798-navigator-inertial-navigation-for-turtles/)
