@@ -25,5 +25,4 @@
 local success, data = turtle.inspect()
 print(textutils.serialise(data))
 ```
-
-![Screenshot 2023-06-23 at 10 11 28 PM](https://github.com/CoderDojo-Iyo/minecraft/assets/948237/f2ee2c42-abed-48ac-82ec-4dc63227157d)
+<img src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/f2ee2c42-abed-48ac-82ec-4dc63227157d" width="360px">
