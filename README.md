@@ -2,6 +2,7 @@
 
 ## マイクラサーバーの立て方について
 - [Minecraft Server Setup](ServerSetup.md)
+- [VPN経由でマルチサーバー](ServerVPN.md)
 
 ## （不定期に）運用中のサーバー
 Dojoの開催に合わせて随時起動しています。 
