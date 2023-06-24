@@ -60,3 +60,7 @@ forge-cctweaked-1.19.3
 ```
 /gamerule doDaylightCycle true
 ```
+## 常に昼間にしたい(教育版 - classroom)
+[Classroom Settings](https://educommunity.minecraft.net/hc/en-us/articles/360061369132-Classroom-Settings)
+- Always Day
+- Perfect Weather
