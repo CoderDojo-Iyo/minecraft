@@ -26,3 +26,6 @@ local success, data = turtle.inspect()
 print(textutils.serialise(data))
 ```
 <img src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/f2ee2c42-abed-48ac-82ec-4dc63227157d" width="360px">
+
+## gps
+[gps - cctweaked](https://tweaked.cc/module/gps.html)
