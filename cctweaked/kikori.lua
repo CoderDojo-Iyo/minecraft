@@ -33,21 +33,22 @@ local function digline(b)
   return cut
 end
     
+local h = 0
 while true do
   local cut = 0
-  local ret = digline(2)
+  local ret = digline(1)
   cut = cut + ret
   turtle.turnLeft()
 
-  ret = digline(2)
+  ret = digline(1)
   cut = cut + ret
   turtle.turnLeft()
   
-  ret = digline(2)
+  ret = digline(1)
   cut = cut + ret
   turtle.turnLeft()
   
-  ret = digline(2)
+  ret = digline(1)
   cut = cut + ret
   turtle.turnLeft()
   
@@ -56,4 +57,11 @@ while true do
     break
   end
   turtle.up()
+  h = h + 1
+end
+
+if h > 0 then
+  for i=1,h do
+    turtle.down()
+  end
 end
