@@ -119,6 +119,13 @@ no-ipのサービス(free plan)で取得したホスト名は有効期限が30�
 
 ![windows-power-settings-2023-02-01](https://user-images.githubusercontent.com/948237/215963458-1c3f0c40-6d94-4bb4-80c2-04a75684e440.png)
 
+## Modを使う場合
+サーバー側にModが導入されていて、クライアント側にModが未導入だと
+```
+This server has mods that require Forge to be instaled on the client.
+Contact your server admin for more details.
+```
+のようなエラーメッセージが表示されて接続できない。
 
 ## 参考記事
 - [Minecraft ポート開放 パソコン版マルチプレイサーバー設置方法](https://www.akakagemaru.info/port/soft_minecraft.html)
