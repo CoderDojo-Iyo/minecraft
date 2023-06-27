@@ -1,12 +1,13 @@
 # minecraft
 別ファイルの目次
 
-- [ComputerCraft](ComputerCraft.md)
 - [マイクラサーバーの立て方](ServerSetup.md)
 - [VPN経由でマルチサーバー](ServerVPN.md)
 - [Minecraft教育版](MinecraftEducation.md)
 - [サーバー側の設定 - server.properties](properties.md)
 - [ワールドについて](world.md)
+- [ComputerCraft](ComputerCraft.md)
+- [CurseForgeアプリ](CurseForgeApp.md)
 
 ## Modを使う場合
 サーバー側にModが導入されていて、クライアント側にModが未導入だと
