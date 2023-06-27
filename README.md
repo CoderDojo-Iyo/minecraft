@@ -1,12 +1,11 @@
 # minecraft
+別ファイルの目次
 
-## マイクラサーバーの立て方について
-- [Minecraft Server Setup](ServerSetup.md)
+- [ComputerCraft](ComputerCraft.md)
+- [マイクラサーバーの立て方](ServerSetup.md)
 - [VPN経由でマルチサーバー](ServerVPN.md)
-
-## （不定期に）運用中のサーバー
-Dojoの開催に合わせて随時起動しています。 
-- [server.properties](properties.md)
+- [Minecraft教育版](MinecraftEducation.md)
+- [サーバー側の設定 - server.properties](properties.md)
 - [ワールドについて](world.md)
 
 ## Modを使う場合
@@ -38,7 +37,6 @@ forge-cctweaked-1.19.3
 上記のような `forge` に `Mod` を導入したい場合、　`CurseForge(app)` を使うと比較的簡単に起動構成を作ることができます。
 
 [CurseForgeApp](CurseForgeApp.md)
-
 
 ## プログラミング
 `ワールドの中でフロッピーに保存したプログラム` はマイクラを動かしているPCのファイルシステムから
