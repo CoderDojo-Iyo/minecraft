@@ -10,3 +10,6 @@
 - プレイヤーのダメージをOFFにする？
 
 <img src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/8889e891-afa6-4483-89d1-720c9f5210c3" width="300px" alt="設定項目">
+
+## 参考記事
+- [教育版マインクラフトで遊んでみた！充実の教育向けワールドからマルチプレイまで一挙解説 - Impress Watch](https://www.watch.impress.co.jp/kodomo_it/news/1333202.html)
