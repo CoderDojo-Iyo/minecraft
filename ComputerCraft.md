@@ -57,3 +57,6 @@ print(textutils.serialise(data))
 
 ## gps
 [gps - cctweaked](https://tweaked.cc/module/gps.html)
+
+## modem
+[Connecting Turtles to a Modem](http://www.computercraft.info/forums2/index.php?/topic/21796-connecting-turtles-to-a-modem/)
