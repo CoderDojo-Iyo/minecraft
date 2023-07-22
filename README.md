@@ -4,6 +4,7 @@
 - [マイクラサーバーの立て方](ServerSetup.md)
 - [VPN経由でマルチサーバー](ServerVPN.md)
 - [Minecraft教育版](MinecraftEducation.md)
+- [MakeCode for Minecraft](MakeCode.md)
 - [サーバー側の設定 - server.properties](properties.md)
 - [ワールドについて](world.md)
 - [ComputerCraft](ComputerCraft.md)
