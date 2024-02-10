@@ -1,4 +1,4 @@
-# CurseForge(app)について
+## CurseForge(app)について
 CurseForgeアプリを導入すると、Minecraft(Forge)とModを比較的簡単に導入することができる。
 
 [Curse Forge](https://www.curseforge.com/)
@@ -11,7 +11,7 @@ CurseForgeアプリを導入すると、Minecraft(Forge)とModを比較的簡単
 
 使用中のPCに合わせてインストーラーをダウンロードしてインストール。
 
-## カスタムプロファイルを作成
+### カスタムプロファイルを作成
 `CurseForge(app)` を起動して `Minecraft` を選択。
 
 <img width="186" alt="Screenshot 2023-05-13 at 11 38 40 AM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/162618ff-d856-4298-804f-cf4d6e82f211">
@@ -27,7 +27,7 @@ CurseForgeアプリを導入すると、Minecraft(Forge)とModを比較的簡単
 
 `作成` ボタンを押す。
 
-## コンテンツを追加
+### コンテンツを追加
 プロファイルができたら右下のアイコンからコンテンツを追加する。
 
 <img width="486" alt="Screenshot 2023-05-13 at 11 45 44 AM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/d3fdd624-6c60-4191-b5ef-8c88e12a8f1d">
@@ -38,7 +38,7 @@ CurseForgeアプリを導入すると、Minecraft(Forge)とModを比較的簡単
 
 `CC:Tweaked` をインストール。
 
-## Modパックを起動
+### Modパックを起動
 <img width="208" alt="Screenshot 2023-05-13 at 11 49 20 AM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/c385a00d-0ddb-409d-9586-cb9a873f5588">
 
 作成したModパック（カスタムプロファイル）をプレイ。
@@ -46,3 +46,5 @@ CurseForgeアプリを導入すると、Minecraft(Forge)とModを比較的簡単
 <img width="314" alt="Screenshot 2023-05-13 at 11 53 16 AM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/90de7daf-c4d8-488e-ab72-07dd303d4be2">
 
 Microsoftアカウントでログイン。
+
+#
