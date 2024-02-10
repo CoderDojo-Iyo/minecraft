@@ -47,4 +47,11 @@ CurseForgeアプリを導入すると、Minecraft(Forge)とModを比較的簡単
 
 Microsoftアカウントでログイン。
 
-#
+## fabric+cctweaked
+### 2024.02.10現在の状況
+Minecraft最新版(1.20.4) + forge + cctweaked の構成はできなくて、
+Minecraft-1.20.1 + fabric + cctweaked で構成できました。
+- 構成画面
+<img width="622" alt="Screenshot 2024-02-10 at 10 50 20 AM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/7c613575-c1c3-4038-b0f9-32a75bf00492">
+
+ただしこの組み合わせの場合、Computerのブロックは自前で作業台を使って作る必要がありそうです。
