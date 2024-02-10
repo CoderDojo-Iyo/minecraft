@@ -1,4 +1,4 @@
-## CurseForge(app)について
+# CurseForge(app)について
 CurseForgeアプリを導入すると、Minecraft(Forge)とModを比較的簡単に導入することができる。
 
 [Curse Forge](https://www.curseforge.com/)
