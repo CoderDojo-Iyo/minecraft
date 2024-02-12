@@ -55,5 +55,7 @@ Minecraft-1.20.1 + fabric + cctweaked で構成できました。
 <img width="622" alt="Screenshot 2024-02-10 at 10 50 20 AM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/7c613575-c1c3-4038-b0f9-32a75bf00492">
 
 インベントリの2ページ目にComputerCraftがありました。
-- ![Screenshot 2024-02-12 at 10 10 48 AM](https://github.com/CoderDojo-Iyo/minecraft/assets/948237/e18ca763-aecf-44c7-9612-9a35aef4b027)
-- ![Screenshot 2024-02-12 at 10 10 53 AM](https://github.com/CoderDojo-Iyo/minecraft/assets/948237/8049ef51-fc84-4c79-a37e-369a191b04be)
+- page 1/2
+   ![Screenshot 2024-02-12 at 10 10 48 AM](https://github.com/CoderDojo-Iyo/minecraft/assets/948237/e18ca763-aecf-44c7-9612-9a35aef4b027)
+- page 2/2
+  ![Screenshot 2024-02-12 at 10 10 53 AM](https://github.com/CoderDojo-Iyo/minecraft/assets/948237/8049ef51-fc84-4c79-a37e-369a191b04be)
