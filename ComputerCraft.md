@@ -59,6 +59,7 @@ print(textutils.serialise(data))
 [gps - cctweaked](https://tweaked.cc/module/gps.html)
 
 ## modem
+参考記事。
 - [Connecting Turtles to a Modem](http://www.computercraft.info/forums2/index.php?/topic/21796-connecting-turtles-to-a-modem/)
 - [ComputerCraftの無線通信を使いこなそう(2)　―RednetAPIの解説](https://hevohevo.hatenablog.com/entry/2014/03/13/001612)
 
