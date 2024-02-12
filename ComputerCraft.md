@@ -59,4 +59,35 @@ print(textutils.serialise(data))
 [gps - cctweaked](https://tweaked.cc/module/gps.html)
 
 ## modem
-[Connecting Turtles to a Modem](http://www.computercraft.info/forums2/index.php?/topic/21796-connecting-turtles-to-a-modem/)
+- [Connecting Turtles to a Modem](http://www.computercraft.info/forums2/index.php?/topic/21796-connecting-turtles-to-a-modem/)
+- [ComputerCraftの無線通信を使いこなそう(2)　―RednetAPIの解説](https://hevohevo.hatenablog.com/entry/2014/03/13/001612)
+
+受信側の Computer や Turtle の id を確認。
+```
+> id
+This is computer #1
+```
+受信側のモデムの位置を確認してプログラムを起動しておく。
+```
+rednet.open("right")
+
+local senderID, message, distance = rednet.receive()
+print(message,' from ID',senderID)
+```
+次に送信側のプログラム。
+Wireless Pocket Computerの場合、モデムの位置は　"back"。
+送信先（受信するコンピュータ）の id は　#1 なので、
+```
+rednet.open("back")
+
+rednet.send(1, "hello")
+```
+これを実行すると、受信側の turtle にメッセージが届く。
+- 受信側の　turtle
+
+<img width="320" alt="Screenshot 2024-02-12 at 3 50 15 PM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/cb0d60e2-39b0-419d-a104-f12dc0e634a3">
+<img width="320" alt="Screenshot 2024-02-12 at 3 50 05 PM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/e676bafc-b6a1-46af-97a7-e66afe65e8aa">
+
+- 送信側の Wireless Pocket Computer
+
+<img width="320" alt="Screenshot 2024-02-12 at 3 51 15 PM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/889ab143-f91c-4079-85d7-2b5da0ec53b3">
