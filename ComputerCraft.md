@@ -56,7 +56,19 @@ print(textutils.serialise(data))
 <img src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/f2ee2c42-abed-48ac-82ec-4dc63227157d" width="360px">
 
 ## gps
-[gps - cctweaked](https://tweaked.cc/module/gps.html)
+- [gps - cctweaked](https://tweaked.cc/module/gps.html)
+### gpsのセットアップ
+- [Setting up GPS - cctweaked](https://tweaked.cc/guide/gps_setup.html)
+
+6ブロック以上離してモデム付きのコンピューターを4台配置する。
+コンピュータにモデムを装着する際はshift+右クリック。
+
+startupプログラムを作成
+```lua
+shell.run("gps", "host", x, y, z)
+```
+`x, y, z` は `F3` で確認する。
+startupを起動しておく。
 
 ## modem
 参考記事。
