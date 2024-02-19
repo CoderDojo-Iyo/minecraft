@@ -1,3 +1,6 @@
+# MOD
+[MOD - Minecraft Japan Wiki](https://minecraftjapan.miraheze.org/wiki/MOD)
+
 ## CurseForge(app)について
 CurseForgeアプリを導入すると、Minecraft(Forge)とModを比較的簡単に導入することができる。
 
