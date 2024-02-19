@@ -104,3 +104,6 @@ rednet.send(1, "hello")
 - 送信側の Wireless Pocket Computer
 
 <img width="320" alt="Screenshot 2024-02-12 at 3 51 15 PM" src="https://github.com/CoderDojo-Iyo/minecraft/assets/948237/889ab143-f91c-4079-85d7-2b5da0ec53b3">
+
+## Gadget?
+[Building Gadgets - By Direwolf20](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
