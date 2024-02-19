@@ -65,3 +65,11 @@ Minecraft-1.20.1 + fabric + cctweaked で構成できました。
 - page 2/2
 
 ![Screenshot 2024-02-12 at 10 10 53 AM](https://github.com/CoderDojo-Iyo/minecraft/assets/948237/8049ef51-fc84-4c79-a37e-369a191b04be)
+
+## Building Gadget
+ComputerCraftをいろいろ試している中で Building Gadget というキーワードが目に入って調べてみました。
+壁とか床とか柱とか、ブロックのかたまりを一気に作れるModみたいです。
+こうなるとちょっと楽しみ方が変わってきますね。
+
+- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+
